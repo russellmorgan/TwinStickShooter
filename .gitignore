@@ -73,5 +73,9 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-#Content that's too big
+#Marketplace content
 Content/TSS_Game
+Content/AdvancedCelShader
+Content/PolygonTown
+Content/SimpleApocalypse
+Content/ExampleContent
