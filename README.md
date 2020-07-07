@@ -1,2 +1,2 @@
 # TwinStickShooter
-Twin sticket shooter test project
+Twin stick shooter test project
